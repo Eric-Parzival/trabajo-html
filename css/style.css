@@ -1,0 +1,30 @@
+section{
+    background-color: aqua;
+    height: 600px;
+    margin: 40px 0px 80px 20px;  
+    border: 5px solid #000;
+}
+.cajas{
+    background-color: blue;
+    height: 200px;
+    padding: 40px;
+}
+
+h1{
+    color: #fff;
+}
+
+#seccion{
+    display: flex;
+}
+
+.cajas1{
+    border: 1px solid #000;
+    width: 40%;
+}
+
+.cajas2{
+    border: 1px solid #fff;
+    width: 60%;
+    
+}
